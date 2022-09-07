@@ -1,1 +1,2 @@
-# sristuben.github.io
+# sophiaristuben.com
+# welcome to my personal website
