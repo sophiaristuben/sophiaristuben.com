@@ -75,11 +75,11 @@ li a:active {
 
 
 .button {
-  display: block;
+  display: inline-block;
   width: 180px;
   padding: 15px 18px;
-  color: white;
-  border: 1.5px solid white;
+  color: black;
+  border: 1.5px solid black;
   text-align: center;
   outline: none;
   text-decoration: none;
