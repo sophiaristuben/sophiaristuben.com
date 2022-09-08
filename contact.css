@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://t3.ftcdn.net/jpg/02/66/25/12/360_F_266251260_lt1ONfTfr8VkjWc4xOSPUnubetJFh5xI.jpg");
+    background-color:white;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -8,9 +8,9 @@ body {
 
 h1 {
   font-size: 450%;
-  color: RGB(255, 255, 255);
+  color: RGB(71, 83, 148);
   margin: 30px 300px ;
-  font-family: "Megrim", cursive;
+  font-family: "Comfortaa", cursive;
 }
 
 #element{
@@ -19,7 +19,7 @@ h1 {
   color:white;
   text-align: center;
   font-family: "Comfortaa", cursive;
-  background-color: rgb(177,156,249);
+  background-color: RGB(71, 83, 148);
   border:white 1px solid;
   padding:24px;
   /*filter:alpha(opacity = 80);
@@ -72,8 +72,8 @@ li a:active {
   display: inline-block;
   width: 180px;
   padding: 15px 18px;
-  color: white;
-  border: 1.5px solid white;
+  color: black;
+  border: 1.5px solid black;
   text-align: center;
   outline: none;
   text-decoration: none;
