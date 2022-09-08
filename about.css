@@ -75,7 +75,7 @@ li a:active {
 
 
 .button {
-  display: inline-block;
+  display: block;
   width: 180px;
   padding: 15px 18px;
   color: white;
