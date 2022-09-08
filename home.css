@@ -54,7 +54,6 @@ li a:active {
   background-color: rgba(218, 189, 253, 0.4);
 }
 
-
 .button {
   display: inline-block;
   width: 180px;
@@ -76,7 +75,7 @@ li a:active {
   background-color: rgba(95, 126, 253, 0.4);
   border-color: rgba(95, 126, 253, 0.2);
   transition: background-color 0.3s ease-in, border-color 0.3s ease-in;
-  color:  RGB(71, 83, 148);
+  color: white;
 }
 
 
