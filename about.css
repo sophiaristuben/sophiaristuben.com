@@ -1,6 +1,5 @@
 body {
-    background-image: url("https://images.unsplash.com/photo-1524334228333-0f6db392f8a1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c3RhcnMlMjBibGFja3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80");
-    
+    background-color: rgb(255, 255, 255);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -13,9 +12,9 @@ img {
 }
 h1 {
   font-size: 600%;
-  color: RGB(255, 255, 255);
+  color: RGB(77, 137, 99);
   margin: 20px 300px ;
-  font-family: "Megrim", cursive;
+  font-family: "MS Gothic";
 }
 
 #element{
