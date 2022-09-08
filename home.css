@@ -10,7 +10,7 @@ h1 {
   font-size: 550%;
   color: RGB(71, 83, 148);
   margin: 130px 300px ;
-  font-family: "Times New Roman";
+  font-family: "Comfortaa";
 }
 
 p {
@@ -58,7 +58,7 @@ li a:active {
   display: inline-block;
   width: 180px;
   padding: 15px 18px;
-  color: black;
+  color: RGB(71, 83, 148);
   border: 1.5px solid black;
   text-align: center;
   outline: none;
