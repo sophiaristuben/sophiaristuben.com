@@ -59,8 +59,8 @@ li a:active {
   display: inline-block;
   width: 180px;
   padding: 15px 18px;
-  color: RGB(71, 83, 148);
-  border: 1.5px solid RGB(71, 83, 148);
+  color: black;
+  border: 1.5px solid black;
   text-align: center;
   outline: none;
   text-decoration: none;
