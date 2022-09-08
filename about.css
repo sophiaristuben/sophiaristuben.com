@@ -95,5 +95,5 @@ li a:active {
   background-color: rgba(95, 126, 253, 0.4);
   border-color: rgba(95, 126, 253, 0.2);
   transition: background-color 0.3s ease-in, border-color 0.3s ease-in;
-  color: white;
+  color: black;
 }
