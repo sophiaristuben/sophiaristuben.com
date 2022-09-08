@@ -10,13 +10,13 @@ h1 {
   font-size: 550%;
   color: RGB(0, 102, 51);
   margin: 130px 300px ;
-  font-family: "Helvetica Neue";
+  font-family: "Comfortaa";
 }
 
 p {
   font-size: 200%;
-  font-family: "Gilroy", cursive;
-  color: RGB(255, 255, 255);
+  font-family: "Comfortaa", cursive;
+  color: RGB(0, 102, 51);
 }
 
 ul {
@@ -76,7 +76,7 @@ li a:active {
   background-color: rgba(95, 126, 253, 0.4);
   border-color: rgba(95, 126, 253, 0.2);
   transition: background-color 0.3s ease-in, border-color 0.3s ease-in;
-  color: white;
+  color:  RGB(0, 102, 51);
 }
 
 
