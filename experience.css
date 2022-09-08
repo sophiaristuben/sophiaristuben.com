@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://dostuff-assets.s3.amazonaws.com/property_asset/45528/insta-do206.jpg");
+    background-color:white;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -14,7 +14,7 @@ h1 {
   font-size: 600%;
   color: #464347;
   margin: 20px 300px ;
-  font-family: "Megrim", cursive;
+  font-family: "Comfortaa", cursive;
 }
 
 #element{
@@ -23,7 +23,7 @@ h1 {
   color:white;
   text-align: left;
   font-family: "Comfortaa", cursive;
-  background-color: rgba(177, 156, 249, .85);
+  background-color: rgba(71,83,148,1);
   border:white 1px solid;
   padding:15px;
   line-height: 30px;
@@ -79,8 +79,8 @@ li a:active {
   display: inline-block;
   width: 180px;
   padding: 15px 18px;
-  color: white;
-  border: 1.5px solid white;
+  color: black;
+  border: 1.5px solid black;
   text-align: center;
   outline: none;
   text-decoration: none;
