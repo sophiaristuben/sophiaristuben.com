@@ -17,6 +17,12 @@ h1 {
   font-family: "Comfortaa", cursive;
 }
 
+h2 {
+  font-size: 100%;
+  color: white;
+  font-family: "Comfortaa", cursive;
+}
+
 #element{
   margin: 50px 220px;
   width:800px;
