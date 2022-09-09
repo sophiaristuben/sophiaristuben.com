@@ -1,78 +1,93 @@
-body {
-    background-color:white;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    text-align: center;
-}
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-h1 {
-  font-size: 600%;
-  color: RGB(71, 83, 148);
-  margin: 20px 300px ;
-  font-family: "Comfortaa", cursive;
+* {
+  max-width: 700px;
+  margin: auto;
 }
 
-#element{
-  margin: 50px 220px;
-  width:800px;
-  color:white;
-  text-align: left;
-  font-family: "Comfortaa", cursive;
-  background-color: rgba(71,83,148,1);
-  border:white 1px solid;
-  padding:15px;
-  line-height: 30px;
-  /*filter:alpha(opacity = 85);
-  -moz-opacity:.90;
-  opacity:.9;*/
-  border-radius: 15px;
 
+/*body {
+    min-width: 500px;
+}*/
+
+div {
+  border-radius: 5px;
 }
 
-ul.tabs {
-  font-family: "Comfortaa", cursive;
-  list-style-type: none;
-  margin:0;
-  padding:0;
-  overflow: hidden;
-  background-color: transparent;
+#header {
+  height: 40px;
+  width: 100%;
+  background-color: #ffcccc;
+  position: fixed;
+  z-index: 1;
 }
 
-ul.about {
-  font-family: "Comfortaa", cursive;
-  background-color: transparent;
+#title {
+  margin-left: 3%;
 }
 
-li {
+#footer {
+  height: 50px;
+  width: 100%;
+  background-color: #ffcccc;
+  clear: both;
+  position: relative;
+}
+
+.left {
+  height: 1000px;
+  width: 45px;
+  background-color: #e0eeee;
   float: left;
+  position: fixed;
+}
+
+.right {
+  height: 1000px;
+  width: 45px;
+  background-color: #e0eeee;
+  float: right;
+  position: inherit;
+}
+
+.stuff {
+  display: inline-block;
+  margin-top: 6px;
+  margin-left: 55px;
+  width: 75%;
+  height: 1000px;
+}
+
+p,
+li {
+  font-family: 'Cormorant Garamond';
+}
+
+.head {
+  font-size: 20px;
+}
+
+#name {
+  font-family: Sacramento;
+  float: right;
+  margin-top: 10px;
+  margin-right: 4%;
 }
 
 a {
-  display: block;
-  padding: 3px;
-}
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
+  color: black;
   text-decoration: none;
-  border-radius: 20px;
 }
 
-li a:hover {
-  background-color: rgba(218, 189, 253, 0.4);
+@media only screen and (max-width: 430px) {
+  .left,
+  .right {
+    display: none;
+  }
+  .stuff {
+    width: 100%;
+    margin-left: 10px;
+  }
 }
 
-li a:active {
-  background-color: rgba(218, 189, 253, 0.4);
-}
 
 
 .button {
