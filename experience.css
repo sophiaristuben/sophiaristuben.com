@@ -4,6 +4,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     text-align: center;
+    text-color: white;
 }
 img {
   display: block;
@@ -17,11 +18,6 @@ h1 {
   font-family: "Comfortaa", cursive;
 }
 
-h2 {
-  font-size: 100%;
-  color: white;
-  font-family: "Comfortaa", cursive;
-}
 
 #element{
   margin: 50px 220px;
