@@ -89,27 +89,3 @@ a {
 }
 
 
-
-.button {
-  display: inline-block;
-  width: 180px;
-  padding: 15px 18px;
-  color: black;
-  border: 1.5px solid black;
-  text-align: center;
-  outline: none;
-  text-decoration: none;
-  transition: background-color 0.2s ease-out, border-color 0.2s ease-out;
-  border-radius: 20px;
-  font-size: 20px;
-  font-family: "Comfortaa", cursive;
-  margin: 4px 2px;
-}
-
-.button:hover,
-.button:active {
-  background-color: rgba(95, 126, 253, 0.4);
-  border-color: rgba(95, 126, 253, 0.2);
-  transition: background-color 0.3s ease-in, border-color 0.3s ease-in;
-  color: black;
-}
