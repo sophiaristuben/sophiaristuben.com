@@ -61,6 +61,29 @@ a#pdf:hover { background: #222; }
 .yui-gf div.first{width:12.3%;}
 
 
+ul.tabs {
+  font-family: "Comfortaa", cursive;
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background-color: transparent;
+}
+
+ul.about {
+  font-family: "Comfortaa", cursive;
+  font-color: white;
+  background-color: transparent;
+}
+
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 3px;
+}
 
 li a {
   display: block;
