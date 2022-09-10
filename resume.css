@@ -12,7 +12,7 @@ body { font-family: Georgia; color: black; }
 .yui-gf { margin-bottom: 2em; padding-bottom: 2em; border-bottom: 1px solid #ccc; }
 
 /* //-- header, body, footer -- */
-/*#hd { margin: 2.5em 0 3em 0; padding-bottom: 1.5em; border-bottom: 1px solid #ccc }
+/*#hd { margin: 2.5em 0 3em 0; padding-bottom: 1.5em; }
 #hd h2 { text-transform: uppercase; letter-spacing: 2px; }
 #bd, #ft { margin-bottom: 2em; }
 
