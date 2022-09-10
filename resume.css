@@ -24,9 +24,9 @@ body { font-family: Georgia; color: #444; }
 #hd h1 { font-size: 48px; text-transform: uppercase; letter-spacing: 3px; }
 h2 { font-size: 152% }
 h3, h4 { font-size: 122%; }
-h1, h2, h3, h4 { color: #333; }
+h1, h2, h3, h4 { color: black; }
 p { font-size: 100%; line-height: 18px; padding-right: 3em; }
-a { color: #990003 }
+a { color: RGB(71, 83, 148)}
 a:hover { text-decoration: none; }
 strong { font-weight: bold; }
 li { line-height: 24px; border-bottom: 1px solid #ccc; }
