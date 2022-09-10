@@ -21,7 +21,7 @@ body { font-family: Georgia; color: black; }
 #ft p { margin-bottom: 0; text-align: center;   }*/
 
 /* //-- core typography and style -- */
-#hd h1 { font-size: 48px; letter-spacing: 3px; color: RGB(71, 83, 148); font-family: "Comfortaa", cursive;}
+#hd h1 { font-size: 48px; letter-spacing: 3px; color: RGB(71, 83, 148)}
 h2 { font-size: 152% }
 h3, h4 { font-size: 122%; }
 h2, h3, h4 { color: black; }
