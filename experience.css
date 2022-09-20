@@ -17,6 +17,13 @@ h1 {
   font-family: "Comfortaa", cursive;
 }
 
+h3 {
+  font-size: 50%;
+  color: rgb(85, 86, 87);
+  font-family: "Comfortaa", cursive;
+  font-style: italic;
+}
+
 
 #element{
   margin: 50px 220px;
