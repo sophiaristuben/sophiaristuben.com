@@ -4,6 +4,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     text-align: center;
+    text-color: white;
 }
 img {
   display: block;
@@ -18,7 +19,6 @@ h1 {
 }
 
 h3 {
-  font-size: 1%;
   color: rgb(85, 86, 87);
   font-family: "Comfortaa", cursive;
   font-style: italic;
