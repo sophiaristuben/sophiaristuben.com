@@ -18,7 +18,7 @@ h1 {
 }
 
 h3 {
-  font-size: 50%;
+  font-size: 10%;
   color: rgb(85, 86, 87);
   font-family: "Comfortaa", cursive;
   font-style: italic;
@@ -35,7 +35,7 @@ h3 {
   border:white 1px solid;
   padding:15px;
   line-height: 30px;
-  /*filter:alpha(opacity = 10);
+  /*filter:alpha(opacity = 85);
   -moz-opacity:.90;
   opacity:.9;*/
   border-radius: 15px;
